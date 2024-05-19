@@ -4,13 +4,13 @@ This Java application implements a simple calculator with basic arithmetic opera
 
 ## How to Use:
 
---**Numeric Buttons:** Click on the numeric buttons (0-9) to input numbers into the calculator screen.
-  --**Decimal Button:** Click on the decimal button (.) to add a decimal point for floating-point numbers.
-  --**Arithmetic Buttons:** Click on the arithmetic buttons (+, -, *, /, %) to perform corresponding operations.
-  --**AC (All Clear) Button:** Click on the AC button to clear the entire input on the screen.
-  --**C (Clear) Button:** Click on the C button to delete the last character from the input.
-  --**Equal Button:** Click on the = button to calculate the result of the expression entered.
-  --**Error Handling:** If there is a syntax error in the expression entered, an error message dialog will be displayed.
+--**Numeric Buttons:** Click on the numeric buttons (0-9) to input numbers into the calculator screen.   
+--**Decimal Button:** Click on the decimal button (.) to add a decimal point for floating-point numbers.   
+--**Arithmetic Buttons:** Click on the arithmetic buttons (+, -, *, /, %) to perform corresponding operations.   
+--**AC (All Clear) Button:** Click on the AC button to clear the entire input on the screen.   
+--**C (Clear) Button:** Click on the C button to delete the last character from the input.   
+--**Equal Button:** Click on the = button to calculate the result of the expression entered.   
+--**Error Handling:** If there is a syntax error in the expression entered, an error message dialog will be displayed.
 
 ## How to Run:
 To run the application, compile the Java file (Calc.java) using a Java compiler and execute the compiled class file.
