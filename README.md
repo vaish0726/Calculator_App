@@ -1,5 +1,5 @@
 # Calculator_App
-**Calculator App using Java in VS Code**
+**Calculator App using Java in VS Code**    
 This Java application implements a simple calculator with basic arithmetic operations (addition, subtraction, multiplication, division, and remainder) using Swing for the GUI.
 
 ## How to Use:
