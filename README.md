@@ -38,7 +38,7 @@ This calculator application was developed by Vaishnavi Singh.
 Special thanks to OpenAI for providing AI assistance in developing this README file.
 
 ## Version History:
-Version 1.0:0. (19-05-2024)
+Version 1.0:0. (19-01-2023)
 
 ## Disclaimer:
 This calculator application is intended for educational purposes only and may not be suitable for use in critical or commercial applications. Use at your own risk.
