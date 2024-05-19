@@ -3,6 +3,7 @@ Calculator App using Java in VS Code
 This Java application implements a simple calculator with basic arithmetic operations (addition, subtraction, multiplication, division, and remainder) using Swing for the GUI.
 
 ##How to Use:
+
 --Numeric Buttons: Click on the numeric buttons (0-9) to input numbers into the calculator screen.
 --Decimal Button: Click on the decimal button (.) to add a decimal point for floating-point numbers.
 --Arithmetic Buttons: Click on the arithmetic buttons (+, -, *, /, %) to perform corresponding operations.
