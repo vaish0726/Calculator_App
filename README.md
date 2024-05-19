@@ -15,6 +15,10 @@ This Java application implements a simple calculator with basic arithmetic opera
 ## How to Run:
 To run the application, compile the Java file (Calc.java) using a Java compiler and execute the compiled class file.
 
+## Screenshots:
+![image](https://github.com/vaish0726/Calculator_App/assets/76163051/610c8c13-2d23-4e29-a4ad-20490d65c026)
+
+
 ## Dependencies:
 This application does not require any external dependencies.
 
